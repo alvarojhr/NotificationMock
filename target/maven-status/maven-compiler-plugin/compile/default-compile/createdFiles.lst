@@ -1,0 +1,3 @@
+com\mycompany\notifications\Notifications.class
+com\mycompany\notifications\NotificationService.class
+com\mycompany\notifications\EmailService.class
